@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int initialBalance = 100;
-        int topUp = 1600;
+        int topUp = 600;
         int bonus = 0;
 
         if (topUp > 1000) {
